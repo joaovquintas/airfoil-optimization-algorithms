@@ -1,1 +1,1 @@
-Este repositório contém a primeira parte do projeto de pesquisa sobre aerodinâmica de hélices. O objetivo desta parte do projeto é otimizar um aerofólio específico para uso em hélices, utilizando algoritmos genéticos e o software Xfoil.
+This repository contains the first part of a research project on propeller aerodynamics. The objective of this part of the project is to optimize a specific airfoil for use in propellers, using genetic algorithms and the Xfoil software.
